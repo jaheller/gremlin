@@ -1,0 +1,4 @@
+serviceName,serviceId,teamId,k8sName,namespace,kind,clusterId,authName,authUrl,healthNameCpu,serviceIdCpu,healthNameLatency,serviceIdLatency,healthNameUp,serviceIdNetwork
+SERVICE_NAME,,YOUR TEAM ID,your K8 deployment name,your namespace,DEPLOYMENT,your k8 cluster id,auth name,auth url,,healthcheckCPU,,healthchecklatency,,healthcheckup,
+SERVICE_NAME,,YOUR TEAM ID,your K8 deployment name,your namespace,DEPLOYMENT,your k8 cluster id,auth name,auth url,,healthcheckCPU,,healthchecklatency,,healthcheckup,
+SERVICE_NAME,,YOUR TEAM ID,your K8 deployment name,your namespace,DEPLOYMENT,your k8 cluster id,auth name,auth url,,healthcheckCPU,,healthchecklatency,,healthcheckup,
